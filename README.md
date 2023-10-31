@@ -6,10 +6,8 @@ Too i have a big knowledge in PHP, and Laravel a backend PHP framework.
 
 ## 🧠 Skills
 - HTML
-- CSS
-- JavaScript
-- Bootstrap
-- JQuery
-- PHP
-- Laravel
+- CSS - Boostrap
+- JavaScript - JQuery
+- PHP/Laravel
 - Git/Github
+- C# (Basic Level)
