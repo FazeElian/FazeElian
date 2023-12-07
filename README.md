@@ -1,21 +1,21 @@
 # Hello, I'm Elián Ibarra 👋
 
-A SENA practitioner with a strong knowledge in Front End Development, with tecnologies like HTML, CSS, JavaScript and Libraries like Bootstrap and JQuery. 
+A SENA practitioner with a strong knowledge in Front End Development, with tecnologies like HTML, CSS and JavaScript. 
 
-Too i have a big knowledge in PHP, and Laravel a backend PHP framework.
+Too i have a big knowledge in PHP, and Laravel a PHP framework.
 
-## 🈂 Languages
+## 🈶 Languages
 - HTML
-- CSS
+- CSS (with responsive design)
 - SASS
 - JavaScript
 - PHP
-- C# (Basic Level)
 
-## Frameworks and libraries
-- Bootsrap (CSS)
-- Jquery (JavaScript)
+## ⚛ Frameworks and libraries
+- Bootstrap (CSS)
 - Laravel (PHP)
+- Three JS (JavaScript)
+- React (JavaScript) - In learning process
 
 ## Main Repositories
 - [AutOsiris Project](https://github.com/FazeElian/TPS_FDS-2671339-AutOsiris-SIW7)
