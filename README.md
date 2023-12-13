@@ -21,4 +21,3 @@ Too i have a big knowledge in PHP, and Laravel a PHP framework.
 - [AutOsiris Project](https://github.com/FazeElian/TPS_FDS-2671339-AutOsiris-SIW7)
 - [Front-End Projects](https://github.com/FazeElian/Front-End-Projects)
 - [Laravel Projects](https://github.com/FazeElian/Laravel-Projects)
-- [QuickBillz Project](https://github.com/FazeElian/Quick-Billz)
