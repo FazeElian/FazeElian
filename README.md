@@ -1,6 +1,6 @@
 # Hello, I'm Elián Ibarra 👋
 
-A SENA practitioner with a strong knowledge in Front End Development, with tecnologies like HTML, CSS and JavaScript. 
+A Front-End developer with a strong knowledge in Front End Development, with tecnologies like HTML, CSS and JavaScript. 
 
 Too i have a big knowledge in PHP, and Laravel a PHP framework.
 
